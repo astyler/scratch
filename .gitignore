@@ -1,3 +1,5 @@
+video/
+*.png
 .DS_STORE
 shapefiles/
 figures/
